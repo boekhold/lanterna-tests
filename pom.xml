@@ -13,7 +13,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <lanterna.version>3.0.0-beta2</lanterna.version>
+        <lanterna.version>3.0.0-SNAPSHOT</lanterna.version>
         <junit.version>4.12</junit.version>
     </properties>
 
